@@ -26,8 +26,8 @@ ARQUIVO_SAIDA = DATA_DIR / "noticias_investimentos.csv"
 
 PALAVRAS_CHAVE = [
     "ipca", "inflação", "selic", "juros", "bovespa", "ações", "investimentos",
-    "bolsa", "ibovespa", "economia", "mercado", "taxa básica", "taxa de juros"
-]
+    "bolsa", "ibovespa", "economia", "mercado", "taxa básica", "taxa de juros",
+    "petróleo", "ouro", "dólar",]
 
 HEADERS = {
     "User-Agent": (
